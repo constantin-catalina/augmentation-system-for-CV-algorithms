@@ -1,0 +1,3 @@
+Rotation 15
+Tint blue 50, Contrast 0.75, Median 3, Flip H
+Tint red 20

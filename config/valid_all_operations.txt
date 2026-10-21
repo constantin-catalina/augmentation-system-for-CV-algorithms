@@ -1,0 +1,14 @@
+Brightness 40
+Contrast 1.3
+Tint blue 50
+Median 5
+Blur 7
+
+Flip H
+Rotation 15
+Resize 320 240
+Erode 5
+Dilate 5
+
+Tint blue 50, Contrast 0.75, Median 3, Flip H
+Rotation -10, Brightness -30, Blur 3

@@ -1,0 +1,2 @@
+Rotation 15
+Sharpen 3
